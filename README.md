@@ -3,7 +3,7 @@
 Unlock **Stripchat tokens** effortlessly with our user-friendly **Stripchat Tokens Generator**! This tool allows you to generate tokens for your Stripchat account instantly, ensuring a seamless experience to enhance your Stripchat sessions.
 
 ## 💻 Website
-Check out the website: [Click Here](https://stripchat-account-generator.pages.dev/)
+Check out the website: [🔗Click Here](https://stripchat-account-generator.pages.dev/)
 
 ## 🚀 Features
 - 🆓 **Free Token Generation**: Generate up to **50,000 Stripchat tokens** at no cost.
